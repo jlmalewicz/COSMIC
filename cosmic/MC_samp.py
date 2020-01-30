@@ -106,7 +106,7 @@ def select_component_mass(gx_component):
 
 def sample_sech_squared(size, scale_height=0.3):
     """Sample a collection of numbers of size=size distributed according
-    to a sech sqaured function with a user specific scale height
+    to a sech squared function with a user specific scale height
 
     Parameters
     ----------
